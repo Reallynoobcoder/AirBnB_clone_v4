@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Houcine Walaq - [Github](https://github.com/houcine200) / [Twitter](https://twitter.com/pwnzor2) 
+Hamza EL imali - [Github](https://github.com/Reallynoobcoder / [Twitter](https://twitter.com/elimali_hamza) 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
