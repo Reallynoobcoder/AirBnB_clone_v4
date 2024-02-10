@@ -9,3 +9,19 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+/* Styles for the API status */
+#api_status {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 30px; /* Align to the right with 30px from the right border */
+    width: 40px; /* Diameter of the circle */
+    height: 40px; /* Diameter of the circle */
+    background-color: #cccccc; /* Background color */
+    border-radius: 50%; /* Make it a circle */
+}
+
+/* Additional class for when the API is available */
+#api_status.available {
+    background-color: #ff545f; /* Change background color when available */
+}
